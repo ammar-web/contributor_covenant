@@ -195,3 +195,15 @@
        url(/fonts/Metropolis-BlackItalic.otf) format("opentype"),
        url(/fonts/Metropolis-BlackItalic.ttf) format("truetype");
 }
+
+@font-face {
+  font-family: "Metropolis";
+  font-style: normal;
+  font-weight: 900;
+  src: local("Metropolis Black"), local("Metropolis-Black"),
+       url(/fonts/Metropolis-Black.woff2) format("woff2"),
+       url(/fonts/Metropolis-Black.woff) format("woff"),
+       url(/fonts/Metropolis-Black.otf) format("opentype"),
+       url(/fonts/Metropolis-Black.ttf) format("truetype");
+}
+
